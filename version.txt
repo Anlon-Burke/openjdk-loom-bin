@@ -1,5 +1,5 @@
-commit 9ab710e03bf49c5284659161169247bb076dbbb8
+commit b90dcf0c4dd71ac4de0edb78f672c2ca9e1d5dfe
 
-Reduce number of iterations in HttpALot
+Improve pinned thread printer to avoid repeated stack traces
 
-Oct 7, 2020
+Oct 9, 2020
