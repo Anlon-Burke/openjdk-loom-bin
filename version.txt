@@ -1,5 +1,5 @@
-commit 46229bef0f874cfab6a928badbc420b4be975f29
+commit 7a38bbea3fdcc8cda02fd4693ea0efbdd390aebd
 
-More blocker use/cleanup
+Filter handshakes to run only on Java threads
 
-Oct 23, 2020
+Oct 29, 2020
