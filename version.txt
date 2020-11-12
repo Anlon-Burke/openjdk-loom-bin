@@ -1,5 +1,5 @@
-commit 7a38bbea3fdcc8cda02fd4693ea0efbdd390aebd
+commit 3c47b03130dce40b223dd30f1a558519501b07eb
 
-Filter handshakes to run only on Java threads
+Anti-delta FJP update for now due to worker spinning
 
-Oct 29, 2020
+Nov 04, 2020
