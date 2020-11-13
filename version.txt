@@ -1,5 +1,5 @@
-commit 3c47b03130dce40b223dd30f1a558519501b07eb
+commit 9f78075485378ed06d6e9865639e7304eef7d084
 
-Anti-delta FJP update for now due to worker spinning
+Change DefaultPollerProvider on Windows back to wepoll
 
-Nov 04, 2020
+Nov 13, 2020
