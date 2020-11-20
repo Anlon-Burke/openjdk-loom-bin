@@ -1,5 +1,5 @@
-commit 9f78075485378ed06d6e9865639e7304eef7d084
+commit 04222bb672781f2888c013bd11a4b6ec130567a7
 
-Change DefaultPollerProvider on Windows back to wepoll
+Remove threadControl_setName(). It's no longer called.
 
-Nov 13, 2020
+Nov 20, 2020
