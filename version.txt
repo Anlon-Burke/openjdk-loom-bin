@@ -1,5 +1,5 @@
-commit 04222bb672781f2888c013bd11a4b6ec130567a7
+commit bd366be91c3cce04238a1b7ed1dbd136b5e5c393
 
-Remove threadControl_setName(). It's no longer called.
+A minor cleanup
 
-Nov 20, 2020
+Nov 27, 2020
