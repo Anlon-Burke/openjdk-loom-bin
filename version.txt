@@ -1,5 +1,5 @@
-commit 0fe3a7e4263ae53c195a5725f8e80876ded3e8ab
+commit 22d4f34b85936277764d54451a948fcc3b958abd
 
-single JFR spinlock impl
+temporary workaround for post_vthread_terminated regression
 
-Dec 11, 2020
+Dec 18, 2020
