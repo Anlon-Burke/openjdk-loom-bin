@@ -1,5 +1,5 @@
-commit 5b1a5286ae5f9d4bef7061a200e8f8fdec21a41a
+commit dfb348cc8b1f1ab3d2b4a41c28b3f06adf8c83ad
 
-Field* events tests fixed.
+Add Scoped.Snapshot tests.
 
-Jan 15, 2021
+Jan 22, 2021
