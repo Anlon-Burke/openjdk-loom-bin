@@ -1,3 +1,5 @@
+Pre-Release 87
+
 commit 4406b8ee7233d4765f5e1b27d09e9fb0b1e09dbe
 
 JNI attached threads should get unique tid; minor javadoc fixes
