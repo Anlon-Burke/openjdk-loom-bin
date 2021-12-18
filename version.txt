@@ -1,7 +1,7 @@
-Pre-Release 95
+Pre-Release 96
 
-commit 4f04c5a326c41db85db64d276615b7c98604fcf4
+commit 51823f0d1397fd26eecec970e52d2f9ea038bcdc
 
-build-microbenchmar target failing
+more renamings in JvmtiVTSuspender class
 
-Dec 10, 2021
+Dec 18, 2021
