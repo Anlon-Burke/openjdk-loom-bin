@@ -1,7 +1,7 @@
-Pre-Release 97
+Pre-Release 98
 
-commit b5b3484021c68b008f7d5c1372880ac4f5e16af1
+commit dd6df46e224e47f4161412fbca9530cd8560c81d
 
-Fix typo
+JvmtiVTMTDisabler::disable_VTMT crash due to running SL.<clinit> during unmount
 
-Dec 23, 2021
+Jan 08, 2022
