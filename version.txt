@@ -1,7 +1,7 @@
-Pre-Release 111
+Pre-Release 112
 
-commit 930bf6318e6a08abd7d9d4e61a35360698478ed8
+commit 30930584d728bc2832e2ca0563cf91abeeff8d3d
 
-Expand testing of special TG
+Rename "scope local" to "extent local" in comments.
 
-Apr 14, 2022
+Apr 22, 2022
